@@ -1,0 +1,22 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+/* Nút ở Trang chủ - Block Giới Thiệu*/
+.button, input[type=button].button, input[type=reset].button, input[type=submit], input[type=submit].button {
+    border-color: rgba(0,0,0,.05);
+    color: #fff;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+

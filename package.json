@@ -1,0 +1,23 @@
+{
+  "name": "web_dalan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatvan1912/Web_DaLan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhatvan1912/Web_DaLan/issues"
+  },
+  "homepage": "https://github.com/nhatvan1912/Web_DaLan#readme",
+  "dependencies": {
+    "website-scraper": "^6.0.0"
+  }
+}
