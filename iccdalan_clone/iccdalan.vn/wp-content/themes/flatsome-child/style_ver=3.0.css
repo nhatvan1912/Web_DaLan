@@ -17,6 +17,55 @@ Version: 3.0
 @media only screen and (max-width: 48em) {
 /*************** ADD MOBILE ONLY CSS HERE  ***************/
 
-
 }
 
+/* CSS Sản phẩm đẹp mắt theo phong cách P/S */
+.product-small.box {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 20px 15px;
+    margin-bottom: 25px;
+    border: 1px solid transparent;
+}
+.product-small.box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+    border-color: #f1f1f1;
+}
+.product-small .box-image {
+    padding: 10px;
+    background: #fff;
+    border-radius: 4px;
+}
+.product-small .box-text {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+.product-small .category.product-cat {
+    display: block !important;
+    text-align: left; /* Căn trái loại sản phẩm */
+    font-size: 12px;
+    color: #777;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.product-small .woocommerce-loop-product__title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.4;
+    margin-top: 10px; /* Giảm khoảng cách phía trên tên sản phẩm */
+    margin-bottom: 0; /* Bỏ khoảng cách thừa dưới tên sản phẩm */
+    font-family: Arial, Helvetica, sans-serif; /* Chữ cứng cáp giống P/S */
+}
+.product-small .woocommerce-loop-product__title a {
+    color: #0033a0; /* Màu xanh đậm của P/S */
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+.product-small .woocommerce-loop-product__title a:hover {
+    color: #0056b3;
+}
