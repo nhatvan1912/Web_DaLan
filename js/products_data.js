@@ -97,18 +97,18 @@ const productsData = [
   },
   {
     "id": "kdr-da-lan-ngua-sau-rang-200gr",
-    "title": "Kem Đánh Răng Dạ Lan Ngừa sâu răng",
+    "title": "KEM ĐÁNH RĂNG NGỪA SÂU RĂNG 240G",
     "image": "./wp-content/uploads/2022/12/12.jpg",
-    "price": "35.000 ₫",
-    "description": "Mô tả sản phẩm Kem Đánh Răng Dạ Lan Ngừa sâu răng",
+    "price": "32.000 ₫",
+    "description": "Kem đánh răng Dạ Lan được sản xuất theo công nghệ flour và 2 lần canxi giúp lấp đầy các lỗ sâu răng li ti trên bề mặt răng chống mảng bám, ngừa sâu răng và bảo vệ men răng. Đem lại cho bạn nụ cười tươi sáng và hàm răng chắc khỏe mỗi ngày.<br><br>Kem đánh răng Dạ Lan ngừa sâu răng hằng ngày 240g cho hơi thở thơm mát và sảng khoái dài lâu.",
     "category": "Sản phẩm Dạ Lan"
   },
   {
     "id": "kdr-da-lan-thao-duoc-180g-kem-ban-chai",
-    "title": "Kem Đánh Răng Dạ Lan Thảo Dược (Tặng kèm bàn chải)",
+    "title": "Kem Đánh Răng Dạ Lan Thảo Dược Quế",
     "image": "./wp-content/uploads/2022/12/13.jpg",
     "price": "35.000 ₫",
-    "description": "Mô tả sản phẩm Kem Đánh Răng Dạ Lan Thảo Dược (Tặng kèm bàn chải)",
+    "description": "Mô tả sản phẩm Kem Đánh Răng Dạ Lan Thảo Dược Quế",
     "category": "Sản phẩm Dạ Lan"
   },
   {
@@ -116,15 +116,15 @@ const productsData = [
     "title": "Kem Đánh Răng Bạc Hà",
     "image": "./wp-content/uploads/2022/12/z3976469348467_835535f43316efc77fae36f234bbfe16.jpg",
     "price": "36.000 ₫",
-    "description": "Mô tả sản phẩm Kem Đánh Răng Bạc Hà",
+    "description": "Thông tin sản phẩm:<br>Tên sản phẩm: Kem Đánh Răng Bạc Hà The Mát 180g – Dạ Lan<br>Thương hiệu: Dạ Lan<br>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,…<br>Khối lượng tịnh: 180g<br>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp<br>Hạn sử dụng: 36 tháng kể từ ngày sản xuất<br>Xuất xứ: Việt Nam",
     "category": "Sản phẩm Dạ Lan"
   },
   {
     "id": "kem-danh-rang-da-lan-family-200gr-kem-ban-chai",
-    "title": "Kem Đánh Răng Dạ Lan Family (Tặng kèm bàn chải)",
+    "title": "KEM ĐÁNH RĂNG FAMILY 200G – DẠ LAN",
     "image": "./wp-content/uploads/2022/12/z3976445633939_1fc3aa4184c604b89c372c02a0afa800.jpg",
-    "price": "35.000 ₫",
-    "description": "Mô tả sản phẩm Kem Đánh Răng Dạ Lan Family (Tặng kèm bàn chải)",
+    "price": "30.000 ₫",
+    "description": "Kem đánh răng Dạ Lan Family 200g được sản xuất theo công thức Fluor, 2 lần canxi (nano canxi + canxi) hỗ trợ 6 tác động giúp sạch khuẩn, chắc răng, tăng cường bảo vệ men răng, chống viêm nướu, ngừa sâu răng, bảo vệ răng cho cả gia đình.",
     "category": "Sản phẩm Dạ Lan"
   },
   {
