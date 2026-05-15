@@ -116,7 +116,7 @@ const productsData = [
     "title": "Kem Đánh Răng Bạc Hà",
     "image": "./wp-content/uploads/2022/12/z3976469348467_835535f43316efc77fae36f234bbfe16.jpg",
     "price": "36.000 ₫",
-    "description": "Thông tin sản phẩm:<br>Tên sản phẩm: Kem Đánh Răng Bạc Hà The Mát 180g – Dạ Lan<br>Thương hiệu: Dạ Lan<br>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,…<br>Khối lượng tịnh: 180g<br>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp<br>Hạn sử dụng: 36 tháng kể từ ngày sản xuất<br>Xuất xứ: Việt Nam",
+    "description": "<strong>Thông tin sản phẩm:</strong><br>Tên sản phẩm: Kem Đánh Răng Bạc Hà The Mát 180g – Dạ Lan<br>Thương hiệu: Dạ Lan<br>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,…<br>Khối lượng tịnh: 180g<br>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp<br>Hạn sử dụng: 36 tháng kể từ ngày sản xuất<br>Xuất xứ: Việt Nam",
     "category": "Sản phẩm Dạ Lan"
   },
   {
