@@ -337,32 +337,58 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById('v-order-form').reset();
     });
 
+    // Helper to get product info and add to cart
+    function addCurrentProductToCart() {
+        const titleEl = document.getElementById('product-title');
+        if(!titleEl) return false;
+
+        const title = titleEl.textContent.trim();
+        const priceEl = document.getElementById('product-price');
+        const price = parsePrice(priceEl ? priceEl.textContent : '0');
+        const imgEl = document.getElementById('product-image');
+        const image = imgEl ? imgEl.getAttribute('src') : '';
+        const qtyInput = document.getElementById('quantity');
+        const quantity = qtyInput ? parseInt(qtyInput.value) : 1;
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const id = urlParams.get('id') || title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
+
+        const existing = cart.find(i => i.id === id);
+        if (existing) existing.quantity += quantity;
+        else cart.push({ id, title, price, image, quantity });
+
+        saveCart();
+        return true;
+    }
+
     // Intercept Add to Cart form on product details page
     const addToCartForm = document.querySelector('form.cart');
     if (addToCartForm) {
         addToCartForm.addEventListener('submit', (e) => {
             e.preventDefault();
-            const titleEl = document.getElementById('product-title');
-            if(!titleEl) return;
-
-            const title = titleEl.textContent.trim();
-            const priceEl = document.getElementById('product-price');
-            const price = parsePrice(priceEl ? priceEl.textContent : '0');
-            const imgEl = document.getElementById('product-image');
-            const image = imgEl ? imgEl.getAttribute('src') : '';
-            const qtyInput = document.getElementById('quantity');
-            const quantity = qtyInput ? parseInt(qtyInput.value) : 1;
-
-            const urlParams = new URLSearchParams(window.location.search);
-            const id = urlParams.get('id') || title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
-
-            const existing = cart.find(i => i.id === id);
-            if (existing) existing.quantity += quantity;
-            else cart.push({ id, title, price, image, quantity });
-
-            saveCart();
-            openCart();
+            if (addCurrentProductToCart()) {
+                openCart();
+            }
         });
+    }
+
+    // Intercept "Mua ngay" button on product details page
+    const btnMuaNgay = document.getElementById('btn-mua-ngay');
+    if (btnMuaNgay) {
+        btnMuaNgay.addEventListener('click', (e) => {
+            e.preventDefault();
+            if (addCurrentProductToCart()) {
+                openCheckout();
+            }
+        });
+    }
+
+    // Auto checkout if URL parameter is present
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('checkout') === 'true') {
+        setTimeout(() => {
+            if (btnMuaNgay) btnMuaNgay.click();
+        }, 300);
     }
 
     renderCart();
