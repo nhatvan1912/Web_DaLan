@@ -98,7 +98,7 @@ const productsData = [
   {
     "id": "kdr-da-lan-ngua-sau-rang-200gr",
     "title": "KEM ĐÁNH RĂNG NGỪA SÂU RĂNG 240G",
-    "image": "./wp-content/uploads/2022/12/12.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalannguasaurang.png",
     "price": "32.000 ₫",
     "description": "Kem đánh răng Dạ Lan được sản xuất theo công nghệ flour và 2 lần canxi giúp lấp đầy các lỗ sâu răng li ti trên bề mặt răng chống mảng bám, ngừa sâu răng và bảo vệ men răng. Đem lại cho bạn nụ cười tươi sáng và hàm răng chắc khỏe mỗi ngày.<br><br>Kem đánh răng Dạ Lan ngừa sâu răng hằng ngày 240g cho hơi thở thơm mát và sảng khoái dài lâu.",
     "category": "Sản phẩm Dạ Lan"
@@ -106,7 +106,7 @@ const productsData = [
   {
     "id": "kdr-da-lan-thao-duoc-180g-kem-ban-chai",
     "title": "KEM ĐÁNH RĂNG THẢO DƯỢC QUẾ 180G - DẠ LAN",
-    "image": "./wp-content/uploads/2022/12/13.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalanthaoduoc.jpg",
     "price": "35.000 ₫",
     "description": "Mô tả sản phẩm Kem Đánh Răng Dạ Lan Thảo Dược Quế",
     "category": "Sản phẩm Dạ Lan"
@@ -114,7 +114,7 @@ const productsData = [
   {
     "id": "kem-danh-rang-110gr-bac-ha",
     "title": "KEM ĐÁNH RĂNG BẠC HÀ 180G - DẠ LAN",
-    "image": "./wp-content/uploads/2022/12/z3976469348467_835535f43316efc77fae36f234bbfe16.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalanbacha.png",
     "price": "35.000 ₫",
     "description": "Kem đánh răng thương hiệu Dạ Lan sản xuất tại Việt Nam. Kem đánh răng Dạ Lan ngừa sâu răng toàn diện hương bạc hà the mát giúp làm sáng răng, loại bỏ vết ố, ngăn ngừa sâu răng và mùi hôi trong hơi thở, đồng thời lưu lại hơi thở thơm mát dài lâu.",
     "long_description": "<strong>MÔ TẢ SẢN PHẨM</strong><br><ul><li>Kem đánh răng thương hiệu Dạ Lan sản xuất tại Việt Nam. Kem đánh răng Dạ Lan ngừa sâu răng toàn diện hương bạc hà the mát giúp làm sáng răng, loại bỏ vết ố, ngăn ngừa sâu răng và mùi hôi trong hơi thở, đồng thời lưu lại hơi thở thơm mát dài lâu.</li></ul><br><strong>Hướng dẫn sử dụng:</strong><br><ul><li>Sử dụng ít nhất 2 lần mỗi ngày sau bữa ăn hoặc theo hướng dẫn của nha sĩ.</li><li>Trẻ em từ 1 – 6 tuổi (dùng 1 lượng nhỏ theo hướng dẫn của người lớn).</li><li>Mỗi lần sử dụng ít nhất 1g kem đánh răng như hình minh họa trên bao bì.</li><li>Nên súc miệng kỹ sau khi đánh răng.</li></ul><br><strong>Đối tượng sử dụng:</strong><br><ul><li>Người vừa nhổ răng hoặc tiểu phẫu thuật răng khôn.</li><li>Người hút thuốc, người dùng nhiều trà hoặc cà phê.</li><li>Người lớn tuổi mang hàm giả có nhiều bệnh nền như bệnh tiểu đường.</li></ul><br><em>Lưu ý:</em><br><ul><li>Đậy kín nắp tuýp kem sau khi sử dụng.</li></ul><br><strong>Thông tin sản phẩm:</strong><br><ul><li>Tên sản phẩm: Kem Đánh Răng Bạc Hà The Mát 180g – Dạ Lan</li><li>Thương hiệu: Dạ Lan</li><li>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,...</li><li>Khối lượng tịnh: 180g</li><li>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp</li><li>Hạn sử dụng: 36 tháng kể từ ngày sản xuất</li><li>Xuất xứ: Việt Nam</li></ul>",
@@ -123,7 +123,7 @@ const productsData = [
   {
     "id": "kem-danh-rang-da-lan-family-200gr-kem-ban-chai",
     "title": "KEM ĐÁNH RĂNG FAMILY 200G – DẠ LAN",
-    "image": "./wp-content/uploads/2022/12/z3976445633939_1fc3aa4184c604b89c372c02a0afa800.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalanfamily.png",
     "price": "30.000 ₫",
     "description": "Kem đánh răng Dạ Lan Family 200g được sản xuất theo công thức Fluor, 2 lần canxi (nano canxi + canxi) hỗ trợ 6 tác động giúp sạch khuẩn, chắc răng, tăng cường bảo vệ men răng, chống viêm nướu, ngừa sâu răng, bảo vệ răng cho cả gia đình.",
     "long_description": "<strong>MÔ TẢ SẢN PHẨM</strong><br><ul><li>Kem đánh răng Dạ Lan Family 200g được sản xuất theo công thức Fluor, 2 lần canxi (nano canxi + canxi) hỗ trợ 6 tác động giúp sạch khuẩn, chắc răng, tăng cường bảo vệ men răng, chống viêm nướu, ngừa sâu răng, bảo vệ răng cho cả gia đình.</li></ul><br><strong>Hướng dẫn sử dụng:</strong><br><ul><li>Sử dụng ít nhất 2 lần mỗi ngày sau bữa ăn hoặc theo hướng dẫn của nha sĩ.</li><li>Trẻ em từ 1 – 6 tuổi (dùng 1 lượng nhỏ theo hướng dẫn của người lớn).</li><li>Mỗi lần sử dụng ít nhất 1g kem đánh răng như hình minh họa trên bao bì.</li><li>Nên súc miệng kỹ sau khi đánh răng.</li></ul><br><strong>Đối tượng sử dụng:</strong><br><ul><li>Người vừa nhổ răng hoặc tiểu phẫu thuật răng khôn.</li><li>Người hút thuốc, người dùng nhiều trà hoặc cà phê.</li><li>Người lớn tuổi mang hàm giả có nhiều bệnh nền như bệnh tiểu đường.</li></ul><br><em>Lưu ý:</em><br><ul><li>Đậy kín nắp tuýp kem sau khi sử dụng.</li></ul><br><strong>Thông tin sản phẩm:</strong><br><ul><li>Tên sản phẩm: Kem Đánh Răng Family 200g</li><li>Thương hiệu: Dạ Lan</li><li>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,...</li><li>Khối lượng tịnh: 200g</li><li>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp</li><li>Hạn sử dụng: 36 tháng kể từ ngày sản xuất</li><li>Xuất xứ: Việt Nam</li></ul>",
@@ -132,7 +132,7 @@ const productsData = [
   {
     "id": "kem-danh-rang-da-lan-tra-xanh-200gr",
     "title": "KEM ĐÁNH RĂNG TRÀ XANH 200G – DẠ LAN",
-    "image": "./wp-content/uploads/2022/12/z3976448819419_fad9b85b00df60179f7bbeb1e98da639.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalantraxanh.png",
     "price": "35.000 ₫",
     "description": "<div style=\"margin-bottom: 8px;\">Kem đánh răng Dạ Lan trà xanh 200g được sản xuất theo công thức Fluor, canxi, kết hợp tinh chất trà xanh giúp trắng răng, chống mảng bám gây sâu răng và khoang miệng thơm mát.</div><div style=\"margin-bottom: 8px;\">Giúp trắng răng.</div><div style=\"margin-bottom: 8px;\">Giúp hơi thở thơm mát.</div><div style=\"margin-bottom: 8px;\">Chiết xuất trà xanh (Green Tea) có tác dụng giảm đau trong viêm quanh thân răng, viêm nướu.</div><div>Tăng pH nước bọt, phòng ngừa mất khoáng men răng hiệu quả.</div>",
     "long_description": "<h3 style=\"text-align: center;\">KEM ĐÁNH RĂNG TRÀ XANH 200G – DẠ LAN</h3><br><strong>MÔ TẢ SẢN PHẨM</strong><br><ul><li>Kem đánh răng Dạ Lan trà xanh 200g được sản xuất theo công thức Fluor, canxi, kết hợp tinh chất trà xanh giúp trắng răng, chống mảng bám gây sâu răng và khoang miệng thơm mát.</li><li>Giúp trắng răng.</li><li>Giúp hơi thở thơm mát.</li><li>Chiết xuất trà xanh (Green Tea) có tác dụng giảm đau trong viêm quanh thân răng, viêm nướu.</li><li>Tăng pH nước bọt, phòng ngừa mất khoáng men răng hiệu quả.</li></ul><br><strong>Hướng dẫn sử dụng:</strong><br><ul><li>Sử dụng ít nhất 2 lần mỗi ngày sau bữa ăn hoặc theo hướng dẫn của nha sĩ.</li><li>Trẻ em từ 1 – 6 tuổi (dùng 1 lượng nhỏ theo hướng dẫn của người lớn).</li><li>Mỗi lần sử dụng ít nhất 1g kem đánh răng như hình minh họa trên bao bì.</li><li>Nên súc miệng kỹ sau khi đánh răng.</li></ul><br><strong>Đối tượng sử dụng:</strong><br><ul><li>Người vừa nhổ răng hoặc tiểu phẫu thuật răng khôn.</li><li>Người hút thuốc, người dùng nhiều trà hoặc cà phê.</li><li>Người lớn tuổi mang hàm giả có nhiều bệnh nền như bệnh tiểu đường.</li></ul><br><em>Lưu ý:</em><br><ul><li>Để đảm bảo an toàn, bạn nên tham khảo ý kiến của bác sĩ trước khi sử dụng.</li></ul><br><strong>Thông tin sản phẩm:</strong><br><ul><li>Tên sản phẩm: Kem Đánh Răng Trà Xanh 200g – Dạ Lan</li><li>Thương hiệu: Dạ Lan</li><li>Thành phần: Hydrated Silica, Water, Sorbitol, Sodium Lauryl sulfate, flavour,...</li><li>Khối lượng tịnh: 200g</li><li>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp</li><li>Hạn sử dụng: 36 tháng kể từ ngày sản xuất</li><li>Xuất xứ: Việt Nam</li></ul>",
@@ -141,7 +141,7 @@ const productsData = [
   {
     "id": "kem-danh-rang-kf-40gr-tre-em",
     "title": "KEM ĐÁNH RĂNG TRẺ EM KF 40G – DẠ LAN",
-    "image": "./wp-content/uploads/2022/12/z3976675768784_c0c9d914e73db89be03665c50e2213f8.jpg",
+    "image": "./wp-content/uploads/2022/DA_LAN/dalankids.png",
     "price": "10.000 ₫",
     "description": "<div style=\"margin-bottom: 8px;\">Kem đánh răng trẻ em Dạ Lan là sản phẩm tối ưu của các bậc phụ huynh để chăm sóc và bảo vệ răng miệng cho bé yêu.</div><div>Sản phẩm giúp làm sạch răng ngăn ngừa sự hình thành các mảng bám, chống sâu răng, ngăn ngừa viêm lợi, đặc biệt trong thời kỳ bé thay răng sữa.</div>",
     "long_description": "<h3 style=\"text-align: center;\">KEM ĐÁNH RĂNG TRẺ EM KF 40G – DẠ LAN</h3><ul><li>Kem đánh răng trẻ em Dạ Lan là sản phẩm tối ưu của các bậc phụ huynh để chăm sóc và bảo vệ răng miệng cho bé yêu.</li><li>Sản phẩm giúp làm sạch răng ngăn ngừa sự hình thành các mảng bám, chống sâu răng, ngăn ngừa viêm lợi, đặc biệt trong thời kỳ bé thay răng sữa.</li></ul><br><strong>Hướng dẫn sử dụng:</strong><br><ul><li>Sử dụng ít nhất 2 lần mỗi ngày sau bữa ăn hoặc theo hướng dẫn của nha sĩ.</li><li>Lưu ý: Chỉ sử dụng cho trẻ em 6 tuổi trở lên.</li></ul><br><strong>Thông tin sản phẩm:</strong><br><ul><li>Tên sản phẩm: Kem Đánh Răng Trẻ Em KF 40g – Dạ Lan</li><li>Thương hiệu: Dạ Lan</li><li>Khối lượng: 40g</li><li>Bảo quản: Nơi khô thoáng, tránh ánh nắng trực tiếp</li><li>Xuất xứ: Việt Nam</li></ul>",
