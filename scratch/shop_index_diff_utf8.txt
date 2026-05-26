@@ -1,0 +1,373 @@
+﻿diff --git a/shop/index.html b/shop/index.html
+index b15611a..468e563 100644
+--- a/shop/index.html
++++ b/shop/index.html
+@@ -1,4 +1,4 @@
+-∩╗┐<!DOCTYPE html><html lang="vi" class="loading-site no-js"><head>
++<!DOCTYPE html><html lang="vi" class="loading-site no-js"><head>
+ 	<meta charset="UTF-8">
+ 	<link rel="profile" href="http://gmpg.org/xfn/11">
+ 	<link rel="pingback" href="../xmlrpc.php">
+@@ -421,344 +421,8 @@ var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url"
+ 		<select name="orderby" class="orderby" aria-label="─É╞ín h├áng cß╗ºa cß╗¡a h├áng">
+ 					<option value="menu_order" selected="selected">Thß╗⌐ tß╗▒ mß║╖c ─æß╗ïnh</option>
+ 					<option value="popularity">Thß╗⌐ tß╗▒ theo mß╗⌐c ─æß╗Ö phß╗ò biß║┐n</option>
+-					<option value="rating">Thß╗⌐ tß╗▒ theo ─æiß╗âm ─æ├ính gi├í</option>
+-					<option value="date">Mß╗¢i nhß║Ñt</option>
+-					<option value="price">Thß╗⌐ tß╗▒ theo gi├í: thß║Ñp ─æß║┐n cao</option>
+-					<option value="price-desc">Thß╗⌐ tß╗▒ theo gi├í: cao xuß╗æng thß║Ñp</option>
+-			</select>
+-	<input type="hidden" name="paged" value="1">
+-	</form>
+-		</div>
+-	</div>
+-</div>
+-
+-	<main id="main" class="">
+-<div class="row category-page-row">
+-
+-		<div class="col large-9">
+-		<div class="shop-container">
+-<div class="woocommerce-notices-wrapper"></div><div class="products row row-small large-columns-3 medium-columns-3 small-columns-2">
+-<div class="product-small col has-hover product type-product post-445 status-publish first instock product_cat-san-pham-bay has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=bot-giat-300gr-2-5kg-3kg-5kg-bot-giat-cong-nghe-sp2-450gr-900gr-1500gr">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976167400787_767444e4d0c7cda1135d75441aa1c874-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bß╗Öt Giß║╖t / Bß╗Öt giß║╖t C├┤ng nghß╗ç" decoding="async" fetchpriority="high" srcset="../wp-content/uploads/2022/12/z3976167400787_767444e4d0c7cda1135d75441aa1c874-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976167400787_767444e4d0c7cda1135d75441aa1c874-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976167400787_767444e4d0c7cda1135d75441aa1c874-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Bay		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=bot-giat-300gr-2-5kg-3kg-5kg-bot-giat-cong-nghe-sp2-450gr-900gr-1500gr" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Bß╗Öt Giß║╖t / Bß╗Öt giß║╖t C├┤ng nghß╗ç</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-446 status-publish instock product_cat-san-pham-boc has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=bot-giat-6kg">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976415054202_8267fdc21305633b09d2dbea26064061-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bß╗Öt Giß║╖t Boc" decoding="async" srcset="../wp-content/uploads/2022/12/z3976415054202_8267fdc21305633b09d2dbea26064061-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976415054202_8267fdc21305633b09d2dbea26064061-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976415054202_8267fdc21305633b09d2dbea26064061-11x12.jpg 11w, ../wp-content/uploads/2022/12/z3976415054202_8267fdc21305633b09d2dbea26064061-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Boc		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=bot-giat-6kg" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Bß╗Öt Giß║╖t Boc</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-435 status-publish last instock product_cat-san-pham-ino has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=bot-giat-ino-3kg">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976554355681_87ba73c90e4de74f583f6992de1ad118-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bß╗Öt Giß║╖t INO" decoding="async" srcset="../wp-content/uploads/2022/12/z3976554355681_87ba73c90e4de74f583f6992de1ad118-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976554355681_87ba73c90e4de74f583f6992de1ad118-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976554355681_87ba73c90e4de74f583f6992de1ad118-13x12.jpg 13w, ../wp-content/uploads/2022/12/z3976554355681_87ba73c90e4de74f583f6992de1ad118-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Ino		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=bot-giat-ino-3kg" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Bß╗Öt Giß║╖t INO</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-440 status-publish first instock product_cat-san-pham-deko has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=combo-sua-tam-goi-1-2l">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976502189404_125783bf60d89de057efcd8b6cc4b29a-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Combo Sß╗»a Tß║»m Gß╗Öi" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/12/z3976502189404_125783bf60d89de057efcd8b6cc4b29a-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976502189404_125783bf60d89de057efcd8b6cc4b29a-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976502189404_125783bf60d89de057efcd8b6cc4b29a-11x12.jpg 11w, ../wp-content/uploads/2022/12/z3976502189404_125783bf60d89de057efcd8b6cc4b29a-100x100.jpg 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Deko		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=combo-sua-tam-goi-1-2l" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Combo Sß╗»a Tß║»m Gß╗Öi</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-437 status-publish instock product_cat-san-pham-deko has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=dau-goi-ha-thu-o-bo-ket-deko-500ml">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Dß║ºu Gß╗Öi H├á Thß╗º ├ö - Bß╗ô Kß║┐t Deko" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-400x400.jpg 400w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-800x800.jpg 800w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-768x768.jpg 768w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-12x12.jpg 12w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-600x600.jpg 600w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b-100x100.jpg 100w, ../wp-content/uploads/2022/12/z3976182442722_43922650198985328505969c3b245c1b.jpg 1200w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Deko		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=dau-goi-ha-thu-o-bo-ket-deko-500ml" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dß║ºu Gß╗Öi H├á Thß╗º ├ö ΓÇô Bß╗ô Kß║┐t Deko</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-438 status-publish last instock product_cat-san-pham-deko has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=dau-goi-tri-gau-deko-500ml">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Dß║ºu Gß╗Öi Trß╗ï G├áu Deko" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-300x300.jpg 300w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-400x400.jpg 400w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-800x800.jpg 800w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-280x280.jpg 280w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-768x768.jpg 768w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-12x12.jpg 12w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-600x600.jpg 600w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf-100x100.jpg 100w, ../wp-content/uploads/2022/12/z3976182473179_1685648e3fece6c56cd93bf9b477bacf.jpg 1200w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Deko		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=dau-goi-tri-gau-deko-500ml" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dß║ºu Gß╗Öi Trß╗ï G├áu Deko</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-448 status-publish first instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kem-danh-rang-110gr-bac-ha">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalanbacha.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng Bß║íc H├á" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalanbacha.png 300w, ../wp-content/uploads/2022/DA_LAN/dalanbacha.png 280w, ../wp-content/uploads/2022/DA_LAN/dalanbacha.png 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kem-danh-rang-110gr-bac-ha" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng Bß║íc H├á</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-453 status-publish instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kem-danh-rang-da-lan-family-200gr-kem-ban-chai">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalanfamily.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng Dß║í Lan Family (Tß║╖ng k├¿m b├án chß║úi)" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalanfamily.png 300w, ../wp-content/uploads/2022/DA_LAN/dalanfamily.png 280w, ../wp-content/uploads/2022/DA_LAN/dalanfamily.png 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kem-danh-rang-da-lan-family-200gr-kem-ban-chai" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng Dß║í Lan Family (Tß║╖ng k├¿m b├án chß║úi)</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-451 status-publish last instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kdr-da-lan-ngua-sau-rang-200gr">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalannguasaurang.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng Dß║í Lan Ngß╗½a s├óu r─âng" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalannguasaurang.png 300w, ../wp-content/uploads/2022/DA_LAN/dalannguasaurang.png 280w, ../wp-content/uploads/2022/DA_LAN/dalannguasaurang.png 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kdr-da-lan-ngua-sau-rang-200gr" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng Dß║í Lan Ngß╗½a s├óu r─âng</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-452 status-publish first instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kdr-da-lan-thao-duoc-180g-kem-ban-chai">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalanthaoduoc.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng Dß║í Lan Thß║úo D╞░ß╗úc Quß║┐" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalanthaoduoc.jpg 300w, ../wp-content/uploads/2022/DA_LAN/dalanthaoduoc.jpg 280w, ../wp-content/uploads/2022/DA_LAN/dalanthaoduoc.jpg 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kdr-da-lan-thao-duoc-180g-kem-ban-chai" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng Dß║í Lan Thß║úo D╞░ß╗úc Quß║┐</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-450 status-publish instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kem-danh-rang-da-lan-tra-xanh-200gr">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalantraxanh.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng Dß║í Lan Tr├á Xanh" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalantraxanh.png 300w, ../wp-content/uploads/2022/DA_LAN/dalantraxanh.png 280w, ../wp-content/uploads/2022/DA_LAN/dalantraxanh.png 100w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+-			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kem-danh-rang-da-lan-tra-xanh-200gr" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng Dß║í Lan Tr├á Xanh</a></p></div><div class="price-wrapper">
+-</div>		</div>
+-	</div>
+-		</div>
+-</div><div class="product-small col has-hover product type-product post-454 status-publish last instock product_cat-san-pham-da-lan has-post-thumbnail virtual product-type-simple">
+-	<div class="col-inner">
+-	
+-<div class="badge-container absolute left top z-1">
+-
+-</div>
+-	<div class="product-small box ">
+-		<div class="box-image">
+-			<div class="image-fade_in_back">
+-				<a href="../product.html?id=kem-danh-rang-kf-40gr-tre-em">
+-					<img width="300" height="300" src="../wp-content/uploads/2022/DA_LAN/dalankids.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Kem ─É├ính R─âng KF Trß║╗ Em" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/DA_LAN/dalankids.png 300w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 400w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 800w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 280w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 768w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 1536w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 12w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 600w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 100w, ../wp-content/uploads/2022/DA_LAN/dalankids.png 1600w" sizes="auto, (max-width: 300px) 100vw, 300px">				</a>
+-			</div>
+-			<div class="image-tools is-small top right show-on-hover">
+-							</div>
+-			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+-							</div>
+-			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+-							</div>
+-					</div>
+-
+-		<div class="box-text box-text-products">
+-			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-8">
+ 			Sß║ún phß║⌐m Dß║í Lan		</p>
+-	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kem-danh-rang-kf-40gr-tre-em" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kem ─É├ính R─âng KF Trß║╗ Em</a></p></div><div class="price-wrapper">
++	<p class="name product-title woocommerce-loop-product__title"><a href="../product.html?id=kem-danh-rang-kf-40gr-tre-em" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">KEM ─É├üNH R─éNG TRß║║ EM KF 40G ΓÇô Dß║á LAN</a></p></div><div class="price-wrapper">
+ </div>		</div>
+ 	</div>
+ 		</div>
+@@ -866,6 +530,7 @@ var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url"
+ 			
+ 
+ <div class="container section-title-container"><h3 class="section-title section-title-normal"><b aria-hidden="true"></b><span class="section-title-main">Li├¬n kß║┐t</span><b aria-hidden="true"></b></h3></div>
++<p><strong>Fanpage:</strong> <a href="https://www.facebook.com/profile.php?id=61574338636094" target="_blank" rel="noopener nofollow">Kem ─æ├ính r─âng Dß║í Lan</a></p>
+ 
+ 
+ 		</div>
+@@ -949,7 +614,7 @@ var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url"
+ <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-268"><a href="../category/tuyen-dung/index.html">Tuyß╗ân dß╗Ñng</a></li>
+ <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="../lien-he/index.html">Li├¬n hß╗ç</a></li>
+ <li class="html header-social-icons ml-0">
+-	<div class="social-icons follow-icons"><a href="http://url" target="_blank" data-label="Facebook" class="icon plain tooltip facebook" title="Theo d├╡i tr├¬n Facebook" aria-label="Theo d├╡i tr├¬n Facebook" rel="noopener nofollow"><i class="icon-facebook" aria-hidden="true"></i></a><a href="http://url" target="_blank" data-label="Instagram" class="icon plain tooltip instagram" title="Theo d├╡i tr├¬n Instagram" aria-label="Theo d├╡i tr├¬n Instagram" rel="noopener nofollow"><i class="icon-instagram" aria-hidden="true"></i></a><a href="http://url" data-label="Twitter" target="_blank" class="icon plain tooltip twitter" title="Theo d├╡i tr├¬n Twitter" aria-label="Theo d├╡i tr├¬n Twitter" rel="noopener nofollow"><i class="icon-twitter" aria-hidden="true"></i></a><a href="mailto:your@email" data-label="E-mail" target="_blank" class="icon plain tooltip email" title="Gß╗¡i email cho ch├║ng t├┤i" aria-label="Gß╗¡i email cho ch├║ng t├┤i" rel="nofollow noopener"><i class="icon-envelop" aria-hidden="true"></i></a></div></li>
++	<div class="social-icons follow-icons"><a href="https://www.facebook.com/profile.php?id=61574338636094" target="_blank" data-label="Facebook" class="icon plain tooltip facebook" title="Theo d├╡i tr├¬n Facebook" aria-label="Theo d├╡i tr├¬n Facebook" rel="noopener nofollow"><i class="icon-facebook" aria-hidden="true"></i></a><a href="http://url" target="_blank" data-label="Instagram" class="icon plain tooltip instagram" title="Theo d├╡i tr├¬n Instagram" aria-label="Theo d├╡i tr├¬n Instagram" rel="noopener nofollow"><i class="icon-instagram" aria-hidden="true"></i></a><a href="http://url" data-label="Twitter" target="_blank" class="icon plain tooltip twitter" title="Theo d├╡i tr├¬n Twitter" aria-label="Theo d├╡i tr├¬n Twitter" rel="noopener nofollow"><i class="icon-twitter" aria-hidden="true"></i></a><a href="mailto:your@email" data-label="E-mail" target="_blank" class="icon plain tooltip email" title="Gß╗¡i email cho ch├║ng t├┤i" aria-label="Gß╗¡i email cho ch├║ng t├┤i" rel="nofollow noopener"><i class="icon-envelop" aria-hidden="true"></i></a></div></li>
+ <li class="html custom html_topbar_right"><div class="trp_language_switcher_shortcode">
+ <div class="trp-language-switcher trp-language-switcher-container" data-no-translation="">
+     <div class="trp-ls-shortcode-current-language">

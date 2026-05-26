@@ -101,6 +101,7 @@ const productsData = [
     "image": "./wp-content/uploads/2022/DA_LAN/dalannguasaurang.png",
     "price": "32.000 ₫",
     "description": "Kem đánh răng Dạ Lan được sản xuất theo công nghệ flour và 2 lần canxi giúp lấp đầy các lỗ sâu răng li ti trên bề mặt răng chống mảng bám, ngừa sâu răng và bảo vệ men răng. Đem lại cho bạn nụ cười tươi sáng và hàm răng chắc khỏe mỗi ngày.<br><br>Kem đánh răng Dạ Lan ngừa sâu răng hằng ngày 240g cho hơi thở thơm mát và sảng khoái dài lâu.",
+    "long_description": "<h3 style=\"text-align: center;\">KEM ĐÁNH RĂNG NGỪA SÂU RĂNG 240G – DẠ LAN</h3><ul><li>Kem đánh răng Dạ Lan được sản xuất theo công nghệ flour và 2 lần canxi giúp lấp đầy các lỗ sâu răng li ti trên bề mặt răng chống mảng bám, ngừa sâu răng và bảo vệ men răng.</li><li>Đem lại cho bạn nụ cười tươi sáng và hàm răng chắc khỏe mỗi ngày.</li><li>Kem đánh răng Dạ Lan ngừa sâu răng hằng ngày 240g cho hơi thở thơm mát và sảng khoái dài lâu.</li></ul><br><strong>Hướng dẫn sử dụng:</strong><br><ul><li>Sử dụng ít nhất 2 lần mỗi ngày sau bữa ăn hoặc theo hướng dẫn của nha sĩ.</li><li>Trẻ em từ 1 – 6 tuổi (dùng 1 lượng nhỏ theo hướng dẫn của người lớn).</li></ul><br><strong>Thông tin sản phẩm:</strong><br><ul><li>Tên sản phẩm: Kem Đánh Răng Ngừa Sâu Răng 240g</li><li>Thương hiệu: Dạ Lan</li><li>Khối lượng tịnh: 240g</li><li>Bảo quản: Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp</li><li>Hạn sử dụng: 36 tháng kể từ ngày sản xuất</li><li>Xuất xứ: Việt Nam</li></ul>",
     "category": "Sản phẩm Dạ Lan"
   },
   {

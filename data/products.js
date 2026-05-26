@@ -1,9 +1,9 @@
 const products = [
   {
     id: "kem-danh-rang-bac-ha",
-    name: "Kem Đánh Răng Bạc Hà",
+    name: "KEM ĐÁNH RĂNG BẠC HÀ 180G - DẠ LAN",
     price: 35000,
-    image: "wp-content/uploads/2022/Dạ Lan/DẠ LAN BẠC HÀ.png",
+    image: "wp-content/uploads/2022/DA_LAN/dalanbacha.png",
     description: "Kem đánh răng Dạ Lan Bạc Hà mang lại hơi thở thơm mát, sảng khoái dài lâu. Công thức bảo vệ men răng và ngăn ngừa sâu răng hiệu quả."
   },
   {
